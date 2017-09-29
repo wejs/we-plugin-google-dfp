@@ -1,0 +1,20 @@
+{
+  "name": "we-plugin-google-dfp",
+  "description": "We.js google DFP/DoubleClick integration plugin",
+  "version": "1.0.0",
+  "main": "plugin.js",
+  "scripts": {},
+  "dependencies": {},
+  "author": "Alberto Souza <contato@albertosouza.net>",
+  "license": "MIT",
+  "repository": "wejs/we-plugin-google-dfp",
+  "keywords": [
+    "wejs-plugin"
+  ],
+  "wejs": {
+    "dependencies": {
+      "we-plugin-view": true,
+      "we-plugin-db-system-settings": true
+    }
+  }
+}
